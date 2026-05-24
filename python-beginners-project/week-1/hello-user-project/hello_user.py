@@ -1,0 +1,5 @@
+name=input("Enter your name: ")
+age=int(input("Enter your age: "))
+print(f'Hello {name}!')
+print(f"You're {age} years old")
+print("Welcome to Python programming!")
