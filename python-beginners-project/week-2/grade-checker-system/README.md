@@ -40,7 +40,7 @@ This is a Python grade checker program that determines a student's grade based o
 3. Enter your score
 4. View grade result
 
-## 🔗 Source Code
+## Source Code
 All code is in `grade_checker.py` inside this repository.
 
 ## What I Learned
